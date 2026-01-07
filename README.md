@@ -8,7 +8,7 @@
 
 Instantly validates Discord Nitro promotional codes with beautiful real-time statistics. Built for speed and accuracy.
 
-## ✨ Key Features
+## ✨ Key Features:
 
 - ⚡ **Blazing Fast** - Multi-threaded checking with live CPM tracking
 - 🎯 **Smart Detection** - Identifies valid, invalid, and already claimed codes
