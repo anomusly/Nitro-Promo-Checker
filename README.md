@@ -1,4 +1,4 @@
-# 🎮 Nitro Promo Checker [New Version Here](https://axilon.mysellauth.com/)
+# 🎮 Nitro Promo Checker [New Version Here](https://shop.axilon.app)
 
 > **Lightning-Fast Discord Nitro Promo Validator**
 
@@ -34,7 +34,7 @@ Watch in real-time as the tool processes codes:
 
 ## 🛒 Get Started
 
-**Available Now:** [axilon.mysellauth.com](https://axilon.mysellauth.com)
+**Available Now:** [https://shop.axilon.app](https://shop.axilon.app)
 
 Contact: [@anomus.ly](https://discord.com/users/1136625769628581928) on Discord
 
