@@ -1,4 +1,4 @@
-# 🎮 Nitro Promo Checker [New Version Here](https://shop.axilon.app)
+# 🎮 Nitro Promo Checker [New Version Here](https://shop.axilon.app).
 
 > **Lightning-Fast Discord Nitro Promo Validator**
 
